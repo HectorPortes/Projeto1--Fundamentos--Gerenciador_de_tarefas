@@ -39,36 +39,3 @@ Criar o esquema visual do site pelo figma.
 ### Passo 2:
 
 Reconstruir o esquema do figma para html e css.
-
----
-
-### Passo 3:
-
-Adicionar as funcionalidades.
-
----
-
-### Tecnologias
-
-* HTML
-* CSS
-* JavaScript
-* DOM
-* LocalStorage
-* Git
-* GitHub
-
----
-
-### O que vou aprender
-
-* Variáveis
-* Condicionais
-* Loops
-* Arrays
-* Objetos
-* Funções
-* Manipulação do DOM
-* Eventos
-* Organização de código
-* Git e GitHub
