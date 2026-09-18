@@ -70,7 +70,7 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
   * * * * Paragrafos: determinar;
   * * * * Footer: determinar.
   * * Esquema principal do site definida:
-  <img title='Esquema Site' src='' width='600px' height='300px'>
+<img title='Esquema Site' src='' width='600px' height='300px'>
   * EV - Finalizada
   
   <br>
