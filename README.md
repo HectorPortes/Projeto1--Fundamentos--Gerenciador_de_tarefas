@@ -61,7 +61,10 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
   <br>
 
   Histórico de atividade:
+  * * Esquema principal do site definida:
   * EV - Iniciada 18/09/2026
+  <img title='Esquema Site' src='' width='600px' height='300px'>
+  
   * * Fontes
   * * * Header: Open Sans;
   * * * Body
@@ -69,8 +72,6 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
   * * * * Subtitulos: determinar;
   * * * * Paragrafos: determinar;
   * * * * Footer: determinar.
-  * * Esquema principal do site definida:
-<img title='Esquema Site' src='' width='600px' height='300px'>
   * EV - Finalizada
   
   <br>
