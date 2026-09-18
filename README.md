@@ -52,8 +52,8 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 
   <br>
 
-  ![https://www.figma.com/design/nWFo6tjUOMONoEtUcKP4Pm/Projeto-1--Fundamentos----Gerenciador-de-Tarefas?node-id=0-1&t=bsf9F7YlXKjTSzj5-1](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![https://canva.link/i8e545czuxtb3ns](https://img.shields.io/badge/canva-blue?style=for-the-badge)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/nWFo6tjUOMONoEtUcKP4Pm/Projeto-1--Fundamentos----Gerenciador-de-Tarefas?node-id=0-1&t=bsf9F7YlXKjTSzj5-1)
+  [![Canva](https://img.shields.io/badge/canva-blue?style=for-the-badge)](https://canva.link/i8e545czuxtb3ns)
 
   * (EV) Estrutura visual do site no Figma
   * (CL) Criação da Logo do Gerenciador de Tarefas pelo Canva
@@ -107,7 +107,7 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 
 ### Artes usadas de terceiros para produzir a logo do site no Canva
 
-![https://canva.link/i8e545czuxtb3ns](https://img.shields.io/badge/canva-blue?style=for-the-badge)
+[![Canva](https://img.shields.io/badge/canva-blue?style=for-the-badge)](https://canva.link/i8e545czuxtb3ns)
 
 * Desenho do menino: https://professoracarina.blogspot.com/2011/01/desenhos-para-colorir-tema-escolar.html
 <img title='Desenho Menino Fazendo Tarefa' src='/images/desenho_menino.jpg' width='320px' height='300'>
