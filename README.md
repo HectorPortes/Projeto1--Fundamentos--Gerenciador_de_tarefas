@@ -110,7 +110,6 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 ![https://canva.link/i8e545czuxtb3ns](https://img.shields.io/badge/canva-blue?style=for-the-badge)
 
 * Desenho do menino: https://professoracarina.blogspot.com/2011/01/desenhos-para-colorir-tema-escolar.html
-<br>
 <img title='Desenho Menino Fazendo Tarefa' src='/images/desenho_menino.jpg' width='320px' height='300'>
 
 <br>
