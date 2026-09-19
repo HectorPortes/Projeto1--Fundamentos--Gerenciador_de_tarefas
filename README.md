@@ -111,7 +111,7 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 [![Canva](https://img.shields.io/badge/canva-blue?style=for-the-badge)](https://canva.link/i8e545czuxtb3ns)
 
 * Desenho do menino: https://professoracarina.blogspot.com/2011/01/desenhos-para-colorir-tema-escolar.html
-<img title='Desenho Menino Fazendo Tarefa' src='/images/desenho_menino.jpg' width='320px' height='300'>
+<img title='Desenho Menino Fazendo Tarefa' src='/images/desenho_menino.jpg' alt='Menino fazendo tarefa' width='320px' height='300'>
 
 <br>
 
@@ -122,10 +122,10 @@ Imagens que me fizeram ter ideias para o relógio final:
 
 * * Desenho do relógio: https://www.flaticon.com/br/icone-gratis/relogio-de-parede_1085157 
 <br>
-<img title='Desenho Relógio' src='/images/desenho_relogio.png' width='320px' height='300px'>
+<img title='Desenho Relógio' src='/images/desenho_relogio.png' width='320px' height='300px' alt='Relógio'>
 
 * * Desenho de Conclusão: https://www.flaticon.com/br/icone-gratis/conclusao_9757455 <br>
-<img title='Desenho Conclusão' src='/images/desenho_conclusao.png' width='320px' height='300px'>
+<img title='Desenho Conclusão' src='/images/desenho_conclusao.png' width='320px' height='300px' alt='Circulo colorido com quadrado centralizado nele e certinho no meio do quadrado'>
 
 ---
 ---
@@ -173,6 +173,15 @@ Imagens que me fizeram ter ideias para o relógio final:
   <summary>Duvidas sobre HTML</summary>
   
   * https://developer.mozilla.org/pt-BR/docs/Web/HTML
+</details>
+
+---
+
+<details>
+  <summary>Duvidas sobre SVG</summary>
+
+  * Playlist do canal Willian Justen sobre SVGs: https://www.youtube.com/watch?v=VNTmT1qMgp0&list=PLlAbYrWSYTiOufRJOeP73o4GR9N1afQdP
+  * Canal Willian Justen: https://www.youtube.com/@WillianJustenCursos
 </details>
 
 ---
