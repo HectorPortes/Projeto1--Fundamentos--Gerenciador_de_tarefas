@@ -295,6 +295,8 @@ Imagens que me fizeram ter ideias para o relógio final:
   * * Sketch (mac)
   * * Inkscape (windows, linux e mac)
   
+  <br>
+
   Na mão
   * Vim
   * VSCode
@@ -310,6 +312,8 @@ Imagens que me fizeram ter ideias para o relógio final:
   * Vecteezy
   * SVGCuts
   
+  <br>
+
   Ícones
   * Icomoon
   * Iconmonstr
@@ -318,6 +322,8 @@ Imagens que me fizeram ter ideias para o relógio final:
   * Flation
   * The Noun Project
   
+  <br>
+
   Patterns
   * Plain Pattern
   * Trianglify
