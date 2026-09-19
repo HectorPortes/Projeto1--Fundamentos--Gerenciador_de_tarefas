@@ -291,9 +291,9 @@ Imagens que me fizeram ter ideias para o relógio final:
 
   #### Como criar SVG?
   Desenhando:
-  * * Illustrator (windows e mac)
-  * * Sketch (mac)
-  * * Inkscape (windows, linux e mac)
+  * Illustrator (windows e mac)
+  * Sketch (mac)
+  * Inkscape (windows, linux e mac)
   
   <br>
 
