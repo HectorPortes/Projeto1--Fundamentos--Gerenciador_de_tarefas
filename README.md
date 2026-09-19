@@ -115,10 +115,11 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 
 <br>
 
-Imagens que me fizeram ter ideias para o relógio final:
 
 * Relógio Final:
 <img title='Relógio Final' src='' width='320px' height='300px'>
+
+Imagens que me fizeram ter ideias para o relógio final:
 
 * * Desenho do relógio: https://www.flaticon.com/br/icone-gratis/relogio-de-parede_1085157 
 <br>
