@@ -98,12 +98,14 @@ Os dados serão armazenados no LocalStorage do navegador, permitindo que as tare
 </details>
 
 ---
+---
 
 ### Registrar Inicio e Fim do Projeto
 
 * Inicio do projeto: 17/09/2026
 * Termino do projeto: 
 
+---
 ---
 
 ### Artes usadas de terceiros para produzir a logo do site no Canva
