@@ -218,7 +218,7 @@ Imagens que me fizeram ter ideias para o relógio final:
   * https://www.flaticon.com/br/icone-gratis/conclusao_9757455
   
   ```
-  Usei ter ideias de fonts para usar no site.
+  Usei para ter ideias de fonts para usar no site.
   ```
 </details>
 
