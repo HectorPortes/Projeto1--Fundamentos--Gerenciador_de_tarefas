@@ -136,10 +136,78 @@ Imagens que me fizeram ter ideias para o relógio final:
   <summary>Duvidas sobre Markdown</summary>
 
   * Como colocar imagens: https://www.digitalocean.com/community/tutorials/markdown-markdown-images
+  
+  * * Usando a tag HTML img: 
+  ```html
+  <img title='Um titulo' src='o caminho ou link da imagem' alt='descrição da imagem' width='se quiser mexer na largura da imagem' height='se quiser mexer na altura da imagem'>
+  ```
+  
+  * * Adicionando com código md de fato:
+  ```md
+  ![alt](link-da-imagem-ou-caminho)
+
+  Exemplo:
+  ![Gato](https://i.pinimg.com/236x/5b/ba/00/5bba000e97f2ae347e6949b412bdb5a4.jpg)
+  ou se tiver baixada
+  ![Gato](/images/gato.jpg)
+  ```
+
+  * * Colocando link em imagens no formato md:
+  ```md
+  [![alt](link-da-imagem-ou-caminho)](link-para-onde-ir)
+
+  Exemplo:
+  [![Gato](https://i.pinimg.com/236x/5b/ba/00/5bba000e97f2ae347e6949b412bdb5a4.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1)
+  ```
+
+  ---
+
   * Como fazer lista alternante: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2 
+  ```html
+  <details>
+    <summary>Aqui é o titulo da lista</sumarry>
+    Quando aberta aparecera o conteudo aqui dentro, sendo possivel usar os códigos md e html normalmente.
+  </details>
+  ```
+  
+  ---
+  
   * Como usar Badges: https://ileriayo.github.io/markdown-badges/
+  
+  * * Possui varias badges prontas de varias ferramentas para utilizar.
+  
+  * * Pegar uma badge pronta do Linkedin e levar para o meu por exemplo:
+  ```md
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](www.linkedin.com/in/hectorportes)
+
+  Usamos a badge pronta do linkedin como uma imagem e linkamos meu linkedin nela.
+  ```
+  
+  ---
+  
   * Shild.io Badges: https://shields.io/badges
+  * * Possui varias badges prontas de diferentes ferramentas e ensina como usar.
+  
+  ---
+  
   * Como criar a própria Badge: https://shields.io/docs/logos
+  
+  * * Parar criar Badges:
+  ``` md
+  ![alt](https://img.shields.io/badge/oquequerescrito-cor?style=for-the-badge)
+  
+  oquequerescrito-cor: é o que vai aparecer escrito na badge mais a cor de funco da badge que quer;
+
+  style=for-the-badge: define tamanho e largura pradonizada de badges, se não colocar isso vai ficar pequena.
+  ```
+
+  ---
+
+  * Como realçar um código: https://www-codecademy-com.translate.goog/resources/docs/markdown/code-blocks?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true
+  
+  ```
+  Abrindo ``` escrevendo o que quer e fechando novamente com ```. Se colocar ```js por exemplo tudo que estiver dentro será interpretado como um código javascript, e assim por diante para outras linguagens.
+  ```
 </details>
  
 ---
