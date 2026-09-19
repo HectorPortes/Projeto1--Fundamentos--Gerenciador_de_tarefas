@@ -192,7 +192,7 @@ Imagens que me fizeram ter ideias para o relógio final:
   
   * Como criar a própria Badge: https://shields.io/docs/logos
   
-  * * Parar criar Badges:
+  * * Para criar Badges:
   ``` md
   ![alt](https://img.shields.io/badge/oquequerescrito-cor?style=for-the-badge)
   
